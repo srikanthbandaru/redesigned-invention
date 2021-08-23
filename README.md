@@ -1,4 +1,4 @@
-# redesigned-inventionnnn
+# redesigned-invention
 
 # Welcome to StackEdit!
 
@@ -147,5 +147,5 @@ C --> D
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTI5NzY5M119
+eyJoaXN0b3J5IjpbMjg2Njk5NjU1XX0=
 -->
