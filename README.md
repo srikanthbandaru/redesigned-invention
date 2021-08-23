@@ -146,7 +146,7 @@ C --> D
 ```js
 const test = 'this is a string';
 // I can see the syntax hilighting here
-[1, 2, 3].forEach(item => console.log(item));
+[1, 2, 3].forEach(item => console.log(item));	
 ```
 
 ```python
@@ -157,6 +157,6 @@ def teestdef:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTYzNDI4OSwxNDk3Njg5MjkxLDE1NT
-A0Mzc1MzMsMjg2Njk5NjU1XX0=
+eyJoaXN0b3J5IjpbLTE1MDE4MjIzMTEsMTY0OTYzNDI4OSwxND
+k3Njg5MjkxLDE1NTA0Mzc1MzMsMjg2Njk5NjU1XX0=
 -->
