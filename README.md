@@ -134,7 +134,7 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 
-And this will produce a flow chart:ttt
+And this will produce a flow chart:
 
 ```mermaid
 graph LR
@@ -151,6 +151,6 @@ const test = 'this is a string';
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTE0NjI3MSwxNTUwNDM3NTMzLDI4Nj
+eyJoaXN0b3J5IjpbMTQ5NzY4OTI5MSwxNTUwNDM3NTMzLDI4Nj
 Y5OTY1NV19
 -->
