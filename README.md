@@ -149,8 +149,14 @@ const test = 'this is a string';
 [1, 2, 3].forEach(item => console.log(item));
 ```
 
+```python
+test = "this is a test string";
+def teestdef:
+	print('hello');
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzY4OTI5MSwxNTUwNDM3NTMzLDI4Nj
-Y5OTY1NV19
+eyJoaXN0b3J5IjpbMTY0OTYzNDI4OSwxNDk3Njg5MjkxLDE1NT
+A0Mzc1MzMsMjg2Njk5NjU1XX0=
 -->
