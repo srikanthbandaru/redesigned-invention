@@ -143,9 +143,12 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
-
+```js
+const test = 'this is a string'
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDQzNzUzMywyODY2OTk2NTVdfQ==
+eyJoaXN0b3J5IjpbLTExNDI2MzU1MDIsMTU1MDQzNzUzMywyOD
+Y2OTk2NTVdfQ==
 -->
