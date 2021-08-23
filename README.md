@@ -144,11 +144,13 @@ B --> D{Rhombus}
 C --> D
 ```
 ```js
-const test = 'this is a string'
+const test = 'this is a string';
+// I can see the syntax hilighting here
+[1, 2, 3].forEach(item => console.log(item));
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI2MzU1MDIsMTU1MDQzNzUzMywyOD
-Y2OTk2NTVdfQ==
+eyJoaXN0b3J5IjpbLTgzNTE0NjI3MSwxNTUwNDM3NTMzLDI4Nj
+Y5OTY1NV19
 -->
